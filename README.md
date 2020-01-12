@@ -15,3 +15,6 @@ ex)config.txt
 img\
 out\
 jpg
+
+
+format change 1
